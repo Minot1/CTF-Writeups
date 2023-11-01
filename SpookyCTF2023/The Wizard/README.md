@@ -18,6 +18,6 @@ And an attachment of an image.
 
 ## Solution
 
-I used the image search of Google to find the piece of art in the picture. It is the mural called "Foggy Bottom" and I found a website that gives the exact address to the art.
+I used the image search of Google to find the piece of art in the picture. It is the mural called "Foggy Bottom" and I found a website that gives the exact address of the art.
 
 ### NICC{950_24th_St_NW_Washington_DC}
